@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//tamrin classi
+//tamrin classi i
 public class work0 {
     public static int n;
     public static int i=0;
